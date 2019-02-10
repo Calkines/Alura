@@ -19,7 +19,7 @@
 
   <ItemGroup>
     <Reference Include="NHibernate">
-      <HintPath>..\..\..\..\Desktop\GitRep\nhibernate-core\src\NHibernate\bin\Debug\netcoreapp2.0\NHibernate.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Desktop\GitRep\nhibernate-core\src\NHibernate\bin\Debug\netcoreapp2.0\NHibernate.dll</HintPath>
     </Reference>
   </ItemGroup>
 
