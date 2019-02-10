@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DPatterns", "DPatterns\DPatterns.csproj", "{FAB14B6C-BD50-4A30-94C7-52D709941205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAB14B6C-BD50-4A30-94C7-52D709941205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAB14B6C-BD50-4A30-94C7-52D709941205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAB14B6C-BD50-4A30-94C7-52D709941205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAB14B6C-BD50-4A30-94C7-52D709941205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1A2D65-8363-456E-934B-2F89B3FC4D2C}
+	EndGlobalSection
+EndGlobal
